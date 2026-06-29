@@ -1,0 +1,10 @@
+transformers==4.41.2
+torch
+timm
+einops
+pdf2image
+pillow
+spacy
+pandas
+matplotlib
+seaborn
